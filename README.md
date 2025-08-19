@@ -18,4 +18,7 @@ Open the `index.html` file in any browser to run the stopwatch.
 
 ---
 
-## 📂 Project Structure
+## 🛠️ How to Use
+1. Clone this repo  
+   ```bash
+   git clone https://github.com/MUFAZ-VK/stop-watch.git
