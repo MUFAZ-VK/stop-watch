@@ -6,7 +6,7 @@ Features **Start, Stop, and Reset** buttons with a clean modern UI.
 ---
 
 ## 🚀 Demo
-Open the `index.html` file in any browser to run the stopwatch.
+[Open the `index.html` file in any browser to run the stopwatch.](https://mufaz-vk.github.io/stop-watch/)
 
 ---
 
